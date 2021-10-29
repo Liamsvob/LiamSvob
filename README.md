@@ -11,15 +11,15 @@
 
 Hello there,
 
-I'm Liam Svoboda and currently doing a Master of Science in Finance with a specialisation in Asset and Risk Management. I'm passionate about quantitative methods for finance, ESG and fintech. 
+I'm Liam Svoboda and currently doing a Master of Science in Finance with a specialisation in Asset and Risk Management at HEC Lausanne with an exchange at Bocconi University. I'm passionate about quantitative methods for finance, ESG and fintech. 
 
 
 
 * Currently learning VBA
-* Currently working on A credit risk analysis for my Credit Risk Management class
-* 
+* Currently working on a credit risk analysis for my Credit Risk Management class
+* Looking for an internship for my Master's Thesis
 
-(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liamsvoboda/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liamsvoboda/)
 
 
 #### Languages & Tools:
