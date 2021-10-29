@@ -20,7 +20,8 @@ I'm Liam Svoboda and currently doing a Master of Science in Finance with a speci
 
 * Currently learning VBA and Javascript
 * Currently working on A credit risk analysis for my Credit Risk Management class
-* How to reach me: [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liamsvoboda/)
+
+* Reach me on:[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liamsvoboda/)
 
 
 #### Languages & Tools:
