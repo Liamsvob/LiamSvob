@@ -27,6 +27,7 @@ I'm Liam Svoboda and currently doing a Master of Science in Finance with a speci
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liamsvob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 My most used Python libraries:
+
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 Some miscellaneous tools I'm proficient in: 
