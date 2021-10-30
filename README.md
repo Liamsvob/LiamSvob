@@ -31,3 +31,5 @@ I'm Liam Svoboda and currently doing a Master of Science in Finance with a speci
 
 ![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liamsvob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
