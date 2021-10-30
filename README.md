@@ -16,7 +16,7 @@ I'm Liam Svoboda and currently doing a Master of Science in Finance with a speci
 
 
 * Currently learning VBA
-* Currently working on a credit risk analysis for my Credit Risk Management class
+* Currently working on an option pricing dashboard
 * Looking for an internship for my Master's Thesis
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liamsvoboda/)
