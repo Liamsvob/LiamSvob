@@ -11,7 +11,7 @@
 
 Hello there,
 
-I'm Liam Svoboda and currently doing a Master of Science in Finance with a specialisation in Asset and Risk Management at HEC Lausanne with an exchange at Bocconi University. I'm passionate about quantitative methods for finance, ESG and fintech. 
+My name is Liam Svoboda and I'm currently doing a Master of Science in Finance with a specialisation in Asset and Risk Management at HEC Lausanne with an exchange at Bocconi University. I'm passionate about quantitative methods for finance, ESG and fintech. 
 
 
 
