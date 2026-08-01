@@ -1,21 +1,25 @@
-
 ### Liam Svoboda
 
-Quantitative finance practitioner in Geneva. I work on systematic
-equity and derivatives-based strategies — factor construction,
-regime detection, and options overlays for yield enhancement.
+Portfolio manager and quantitative-finance practitioner in Geneva.
+My work spans quantitative fund selection — building the screens and
+scoring models myself — structured-product design, and a
+derivatives-based yield-enhancement overlay.
 
-Background: MSc Finance (Asset & Risk Management), HEC Lausanne,
-with an exchange at Bocconi. Currently a portfolio manager;
-focused on systematic and quantitative research.
+Background: MSc Finance, Quantitative Track (5.5/6, summa cum laude),
+HEC Lausanne, with an exchange at Bocconi. Earlier quant experience
+includes Delta One / quant structuring at Kepler Cheuvreux Solutions
+and thematic equities at Pictet Asset Management.
 
-**Featured work**
+**Featured research**
 - [Quality in Times of Insanity](https://github.com/Liamsvob/Quality-in-Times-of-Insanity)
-  — systematic quality-factor equity strategy with HMM/k-Means
-  regime switching on MSCI World. Out-of-sample Sharpe improvement
-  vs. benchmark. (MSc thesis, supervised by Prof. Florian Ielpo.)
+  — systematic quality-factor equity strategy with HMM / k-Means
+  regime switching on MSCI World, showing improved out-of-sample
+  risk-adjusted returns vs. benchmark. (MSc thesis, supervised by
+  Prof. Florian Ielpo.)
+
+**Currently building:** open tools for derivatives pricing and
+structured-product analytics (pricing, Greeks, options monitoring).
 
 **Focus areas:** factor investing · regime-switching models ·
-derivatives overlays · portfolio construction · Python
-
-[LinkedIn](https://www.linkedin.com/in/liamsvoboda/)
+derivatives & structured products · quantitative fund selection ·
+portfolio construction · Python
